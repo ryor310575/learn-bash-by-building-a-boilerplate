@@ -332,3 +332,8 @@ ls --color=auto
 __vsc_prompt_cmd_original
 find -name images
 mv header.png ./client/assets/images
+find -name header.png
+find
+find -name header.png
+find -name images
+find -name header.png
