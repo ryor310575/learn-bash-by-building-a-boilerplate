@@ -605,3 +605,7 @@ ls --color=auto
 clear
 find
 mv freeCodeCamp.svg ./client/assets/icons
+find
+find
+ls --color=auto
+find
