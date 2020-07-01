@@ -564,3 +564,8 @@ cd /workspace/project/website
 ls --color=auto
 find
 mv CodeRoad.svg ./client/assets/icons
+cd /workspace/project/website
+find
+ls --color=auto
+mv freeCodeCamp.svg ./client/assets/icons
+ls --color=auto
