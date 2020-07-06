@@ -275,3 +275,14 @@ __vsc_prompt_cmd_original
 ls --color=auto
 pwd
 mv header.png ..
+__vsc_prompt_cmd_original
+ls --color=auto
+pwd
+ls --color=auto
+cd /workspace/project/website/images
+ls --color=auto
+cd /workspace/project/website/images
+ls --color=auto
+mv header.png ..
+ls --color=auto
+ls --color=auto
