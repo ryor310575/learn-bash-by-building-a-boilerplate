@@ -107,3 +107,4 @@ ls --color=auto
 cd freeCodeCamp/
 cd test
 ls --color=auto
+cd ..
