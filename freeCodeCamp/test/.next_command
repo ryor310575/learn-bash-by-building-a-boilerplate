@@ -165,3 +165,4 @@ ls --color=auto
 touch toboto.font
 rm toboto.font
 touch roboto.font
+touch lato.font
