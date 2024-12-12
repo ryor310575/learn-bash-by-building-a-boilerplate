@@ -192,3 +192,4 @@ ls --color=auto
 cd ..
 l
 ls --color=auto
+rm header.png
