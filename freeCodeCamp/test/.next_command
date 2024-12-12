@@ -190,3 +190,5 @@ d im
 cd images/
 ls --color=auto
 cd ..
+l
+ls --color=auto
