@@ -262,3 +262,5 @@ find -name src
 find
 ls --color=auto
 cd client/
+__vsc_prompt_cmd_original
+mkdir assets
