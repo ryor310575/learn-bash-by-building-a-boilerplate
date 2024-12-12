@@ -167,3 +167,5 @@ rm toboto.font
 touch roboto.font
 touch lato.font
 touch menlo.font
+__vsc_prompt_cmd_original
+ls --color=auto
