@@ -327,3 +327,4 @@ ls --color=auto
 cd /workspace/project/website
 cd images
 ls --color=auto
+cd ..
