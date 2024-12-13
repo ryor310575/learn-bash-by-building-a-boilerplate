@@ -372,3 +372,6 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd /workspace/project/website
 find -name header.png
 find -name footer.jpeg
+mv ./images/footer.jpeg ./clients/assets/images
+ls --color=auto
+mv ./images/footer.jpeg ./client/assets/images
