@@ -524,3 +524,4 @@ rmdir images
 find
 rm ./images/background.jpg
 rmdir images
+ls --color=auto
