@@ -414,3 +414,5 @@ find
 cd /orkspace/project/website
 cd /workspace/project/website
 find
+ls --color=auto
+rmdir images
