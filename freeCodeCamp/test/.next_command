@@ -563,3 +563,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd /workspace/project/website
 ls --color=auto
 find
+mv CodeRoad.svg ./client/assets/icons
