@@ -768,3 +768,11 @@ echo I made this boilerplate >> README.md
 more README.md
 echo from the command line >> README.md
 more README.md
+echo from the freeCodeCamp bash lessons >> README.md
+echo froorhe freeCodeCamp bash lessons >> READMd
+more README.md
+rm README.md
+touch README.md
+echo I made this boilerplate >> README.md
+echo from the command line >> README.md
+echo for the freeCodeCamp bash lessons >> README.md
