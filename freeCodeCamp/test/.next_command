@@ -782,3 +782,6 @@ ls --color=auto
 mv website website-boilerplate
 find website-boilerplate/
 ls --color=auto
+copy --help
+cp --help
+cp --help
