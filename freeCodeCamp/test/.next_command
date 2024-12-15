@@ -787,3 +787,4 @@ cp --help
 cp --help
 cp --help
 cp -r website-boilerplate toms-website
+ls --color=auto
