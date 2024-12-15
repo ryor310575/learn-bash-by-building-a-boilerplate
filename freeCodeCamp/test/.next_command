@@ -645,3 +645,4 @@ cd /workspace/project/website
 find
 mkdir ./client/assets/fonts
 touch ./client/assets/fonts/roboto-bold.woff
+touch ./client/assets/fonts/roboto-light.woff
