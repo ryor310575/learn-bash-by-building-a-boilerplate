@@ -644,3 +644,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd /workspace/project/website
 find
 mkdir ./client/assets/fonts
+touch ./client/assets/fonts/roboto-bold.woff
